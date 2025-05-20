@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form Augusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Augusto.Designer.cs">
+      <DependentUpon>Form Augusto.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
